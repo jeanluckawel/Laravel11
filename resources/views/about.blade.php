@@ -1,13 +1,6 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>About page</title>
-</head>
-<body>
-    <h1>Welcome from the Abiut page.</h1>
-</body>
-</html>
+<x-layout>
+    <x-slot:haddings>
+        About page
+    </x-slot:haddings>
+    <h1>Welcome from the About page.</h1>
+</x-layout>
