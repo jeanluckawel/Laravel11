@@ -1,6 +1,6 @@
 <x-layout>
     <x-slot:haddings>
-        Home page
+        About page
     </x-slot:haddings>
-    <h1>Welcome from the Home page.</h1>
+    <h1>Welcome from the About page.</h1>
 </x-layout>
